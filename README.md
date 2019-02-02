@@ -1,1 +1,3 @@
-circle-packing
+# Circle Packing
+
+![Rendered Sketch](circle-packing.png "result")
